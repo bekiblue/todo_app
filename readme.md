@@ -1,22 +1,22 @@
 
-Django To-Do API
-A simple Django backend API for managing to-do tasks.
+# Django To-Do API
+# A simple Django backend API for managing to-do tasks.
 
-Setup
-Clone the repository:
+# Setup
+  1. Clone the repository
+  
+  2. Install dependencies
+  
+  3. Apply migrations
+  
+  4. Run the server
 
-Install dependencies:
-
-Apply migrations:
-Run the server:
-
-Usage
+# Usage
 
 Send HTTP requests to the provided endpoints.
 
-Endpoints
-List tasks: GET /tasks/
-Create task: POST /tasks/
-Retrieve task: GET /tasks/{id}/
-Update task: PUT /tasks/{id}/
-Delete task: DELETE /tasks/{id}/
+  1. List tasks: GET /tasks/
+  2. Create task: POST /tasks/
+  3. Retrieve task: GET /tasks/{id}/
+  4. Update task: PUT /tasks/{id}/
+  5. Delete task: DELETE /tasks/{id}/
